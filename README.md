@@ -12,7 +12,6 @@
     <tr>
       <td align="center">
         <!-- Substitua as URLs pelas URLs reais do seu perfil -->
-        <img src="https://raw.githubusercontent.com/thfmjdrip/thfmjdrip/metrics-output/stats.svg" alt="GitHub Stats" height="150" />
       </td>
       <td align="center">
         <!-- Substitua as URLs pelas URLs reais do seu perfil -->
